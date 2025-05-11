@@ -1,10 +1,10 @@
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 *.spec
-*.log
 build/
 dist/
-*.exe
-*.dll
-*.zip
+data/config.json
 .vscode/
+.env
