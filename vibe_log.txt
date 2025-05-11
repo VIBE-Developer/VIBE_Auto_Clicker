@@ -1,0 +1,91 @@
+2025-05-11 23:34:24,934 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:34:24,936 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:40:57,697 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:40:57,697 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:42:33,142 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:42:33,144 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:42:45,994 [ERROR] ClickWorkerActive: ошибка выполнения
+Traceback (most recent call last):
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 46, in run
+    self._move_cursor(x, y)
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 60, in _move_cursor
+    win32api.SetCursorPos((x, y))
+pywintypes.error: (0, 'SetCursorPos', 'No error message is available')
+2025-05-11 23:42:46,002 [INFO] [✘] ClickWorkerActive остановлен
+2025-05-11 23:45:27,013 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:45:27,013 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:45:31,673 [ERROR] ClickWorkerActive: ошибка выполнения
+Traceback (most recent call last):
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 46, in run
+    self._move_cursor(x, y)
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 60, in _move_cursor
+    win32api.SetCursorPos((x, y))
+pywintypes.error: (0, 'SetCursorPos', 'No error message is available')
+2025-05-11 23:45:31,675 [INFO] [✘] ClickWorkerActive остановлен
+2025-05-11 23:48:40,519 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:48:40,521 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:48:46,344 [ERROR] ClickWorkerActive: ошибка выполнения
+Traceback (most recent call last):
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 46, in run
+    self._move_cursor(x, y)
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 60, in _move_cursor
+    win32api.SetCursorPos((x, y))
+pywintypes.error: (0, 'SetCursorPos', 'No error message is available')
+2025-05-11 23:48:46,353 [INFO] [✘] ClickWorkerActive остановлен
+2025-05-11 23:58:03,460 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-11 23:58:03,460 [INFO] [✓] ClickWorkerActive запущен
+2025-05-11 23:58:07,357 [ERROR] ClickWorkerActive: ошибка выполнения
+Traceback (most recent call last):
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 46, in run
+    self._move_cursor(x, y)
+  File "D:\Project\Scripts\VIBE_CLICKER\logic\click_worker_active.py", line 60, in _move_cursor
+    win32api.SetCursorPos((x, y))
+pywintypes.error: (0, 'SetCursorPos', 'No error message is available')
+2025-05-11 23:58:07,360 [INFO] [✘] ClickWorkerActive остановлен
+2025-05-12 00:00:45,653 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:00:45,653 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:03:53,418 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:03:53,418 [DEBUG] [DEBUG] click_worker = None
+2025-05-12 00:03:53,419 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:05:43,569 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:05:43,569 [DEBUG] [DEBUG] click_worker = None
+2025-05-12 00:05:43,569 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:05:43,570 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:05:43,672 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:06:57,561 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:06:57,561 [DEBUG] [DEBUG] Запускаем click_worker...
+2025-05-12 00:06:57,561 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:06:57,561 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:06:57,663 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:07:56,865 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:07:56,865 [DEBUG] [DEBUG] Запускаем click_worker...
+2025-05-12 00:07:56,865 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:07:56,866 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:07:56,967 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:09:27,925 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:09:27,925 [DEBUG] [DEBUG] Запускаем click_worker...
+2025-05-12 00:09:27,925 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:09:27,925 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:09:28,027 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:11:27,792 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:11:27,792 [DEBUG] [DEBUG] Запускаем click_worker...
+2025-05-12 00:11:27,792 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:11:27,792 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:11:27,894 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:12:02,690 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:12:02,690 [DEBUG] [DEBUG] click_worker is_alive=None
+2025-05-12 00:12:02,691 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:12:02,691 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:12:02,792 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:14:07,605 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:14:07,605 [DEBUG] [DEBUG] click_worker is_alive=None
+2025-05-12 00:14:07,605 [DEBUG] [DEBUG] click_worker создан: <ClickWorkerActive(Thread-4, initial daemon)>
+2025-05-12 00:14:07,605 [INFO] [✓] ClickWorkerActive запущен
+2025-05-12 00:14:07,707 [DEBUG] [DEBUG] click_worker после запуска is_alive=True
+2025-05-12 00:14:08,103 [DEBUG] [DEBUG] F10: вкл/выкл кликер
+2025-05-12 00:14:08,103 [DEBUG] [DEBUG] click_worker is_alive=True
+2025-05-12 00:14:08,103 [DEBUG] [OverlayLogic] Запрошена остановка кликера
+2025-05-12 00:14:08,103 [DEBUG] [ClickWorkerActive] Сигнал остановки получен
+2025-05-12 00:14:08,113 [DEBUG] [ClickWorkerActive] Прерывание внутри цикла маркеров
+2025-05-12 00:14:08,113 [INFO] [✘] ClickWorkerActive остановлен
+2025-05-12 00:14:08,113 [INFO] [OverlayLogic] Кликер остановлен

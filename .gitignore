@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.spec
+*.log
+build/
+dist/
+*.exe
+*.dll
+*.zip
+.vscode/
